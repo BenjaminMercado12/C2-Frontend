@@ -56,7 +56,6 @@ export default function TicketForm() {
       life: 2500
     });
 
-    // limpiar
     setDay(null); setPayType(null); setQty(1); setCity(''); setMovie(null);
   };
 
